@@ -4,9 +4,8 @@ def sym(a,b):
         print( a * b)
         sym(a-1, b+1)
 
-A = [3,4,3,4]
-B = [1,2,3,1]
+A = [3,4,5,6,10]
+B = [2,4,1,6,2020]
 
-for i in range(4):
-    print (sym(A[i], B[i]))
-    print('\n')
+for i in range (5):
+    print(2 ** A[i] - 1)
