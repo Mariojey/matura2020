@@ -36,10 +36,10 @@ K - Dla wiersza szóstego:
    1 2 3 4 5 6 7 8 9 -- numer pozycji według zadania
    0 1 2 3 4 5 6 7 8 -- index pozycji według zasad programowania 
    jak możemy zauważyć elementy tablicy od pozycji 0 do pozycji 3 moga być równe innym w tablicy B (na pozycji 4 mamy już inną liczbę, która w B jest na pozycji 0,dlatego nie byłoby tam podobieństwa).
-  [1,1,1,1,3,1,1,1,1]
+  [**_1,1,1,1_**,3,1,1,1,1]
 
   Podstawiając do wzoru podanego w zadaniu (n-k+1) (9-4+1) do naszego zbioru wejdą zatem liczby które w tablicy zajmują miejsca z indexem od 5 do 8, czy pozycje o numerze 6 - 9; 
-  [1,1,1,1,3,1,1,1,1] = [3,1,1,1,1,1,1,1,1]
+  [**_1,1,1,1_**,3,1,1,1,1] = [3,1,1,1,1,**_1,1,1,1_**]
 
 
 
