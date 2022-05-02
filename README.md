@@ -129,7 +129,7 @@ I tak dla każdego zegara
 
 **3.4**
 
-Aby sprawdzić odpowiedź można zaimportować bazę pracownicy.sql do phpMyAdmina i wykonać zapytanie z pliku [link](https://github.com/Mariojey/matura2020/edit/main/zapytanie.sql)
+Aby sprawdzić odpowiedź można zaimportować bazę pracownicy.sql do phpMyAdmina i wykonać zapytanie z pliku [zapytanie.sql](https://github.com/Mariojey/matura2020/edit/main/zapytanie.sql)
 
 1. Odpowiedź: Fałsz
 2. Odpowiedź: Prawda
