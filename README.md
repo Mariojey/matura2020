@@ -121,4 +121,20 @@ I tak dla każdego zegara
 3. Odpowiedź: Fałsz
 4. Odpowiedź: Prawda
 
+**3.3**
+1. Odpowiedź: Prawda
+2. Odpowiedź: Prawda
+3. Odpowiedź: Prawda
+4. Odpowiedź: Fałsz
+
+**3.4**
+
+Aby sprawdzić odpowiedź można zaimportować bazę pracownicy.sql do phpMyAdmina i wykonać zapytanie z pliku
+
+1. Odpowiedź: Fałsz
+2. Odpowiedź: Prawda
+3. Odpowiedź: Prawda
+4. Odpowiedź: Fałsz
+
+
 

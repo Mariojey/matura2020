@@ -1,0 +1,1 @@
+SELECT * FROM pracownicy WHERE pensja < 2000 ORDER BY staz DESC;
