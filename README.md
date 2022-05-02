@@ -91,6 +91,30 @@ a b sym (a, b)
 Uzupełnij tabelę – podaj długość ciągu liczbowego otrzymanego w wyniku wywołania
 procedury sym (a, b) dla wskazanych argumentów a i b. 
 
+**3.1**
+
+Zegar A:
+
+Godzina | Minuta | Sekunda
+------- |--------|--------
+    0   |  0 0   |    1     
+    0   |  0 0   |  1 0
+  1 1   |  1 0   |  0 0
+  0 0   |  1 0   |  0 1
+:------------------------:
+Dziesiętnie
+:------------------------:
+  2 2   |  3 0   |  4 9
+
+
+I tak dla każdego zegara
+
+1. Odpowiedź: Fałsz
+2. Odpowiedź: Prawda
+3. Odpowiedź: Prawda
+4. Odpowiedź: Fałsz
+
+
 
 
 
