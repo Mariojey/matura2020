@@ -115,6 +115,10 @@ I tak dla każdego zegara
 4. Odpowiedź: Fałsz
 
 
-
+**3.2**
+1. Odpowiedź: Fałsz
+2. Odpowiedź: Prawda
+3. Odpowiedź: Fałsz
+4. Odpowiedź: Prawda
 
 
