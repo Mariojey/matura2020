@@ -91,6 +91,9 @@ a b sym (a, b)
 Uzupełnij tabelę – podaj długość ciągu liczbowego otrzymanego w wyniku wywołania
 procedury sym (a, b) dla wskazanych argumentów a i b. 
 
+
+# zadanie 3
+
 **3.1**
 
 Zegar A:
@@ -135,6 +138,25 @@ Aby sprawdzić odpowiedź można zaimportować bazę pracownicy.sql do phpMyAdmi
 2. Odpowiedź: Prawda
 3. Odpowiedź: Prawda
 4. Odpowiedź: Fałsz
+
+# Część druga - przy komputerze
+
+# zadanie 4
+
+Wyniki są w pliku wyniki4.txt
+
+**4.1**
+Hipoteza Goldbacha jest nstępująca:
+Każda parzysta liczba całkowita większa od 4 jest sumą dwóch nieparzystych liczb pierwszych, np. liczba 20 równa się sumie 3 + 17 lub 7 + 13
+
+Każdą lcizbę parzystą z pliku pary.txt przedstaw w postaci sumy dwóch liczb pierwszych. Wypisz tę liczbę oraz dwa składniki sumy w kolejności niemalejącej. Jeżeli istnieje więcej rozwiązań (tak jak dla liczby 20) należy wypisać składniki sumy o njawiększej różnicy.
+
+Wyniki podaj w oddzielnych wierszach, w kolejności zgodnej z kolejnością dnaycbh w pliku pary.txt. Liczby w kazdym wierszu rodziel znkaiem spacji, np. dla liczby 20 należy wypisać 20 3 17.
+
+
+Na początku sprawdzamy czy mamy do czynienia z liczbą pierwszą, w zadaniu też będzimey korzystać z biblioteki math.
+
+
 
 
 
