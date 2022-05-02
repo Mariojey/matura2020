@@ -132,7 +132,7 @@ I tak dla każdego zegara
 
 **3.4**
 
-Aby sprawdzić odpowiedź można zaimportować bazę pracownicy.sql do phpMyAdmina i wykonać zapytanie z pliku [zapytanie.sql](https://github.com/Mariojey/matura2020/main/zapytanie.sql)
+Aby sprawdzić odpowiedź można zaimportować bazę pracownicy.sql do phpMyAdmina i wykonać zapytanie z pliku [zapytanie.sql](https://github.com/Mariojey/matura2020/blob/main/zapytanie.sql)
 
 1. Odpowiedź: Fałsz
 2. Odpowiedź: Prawda
@@ -151,7 +151,7 @@ Każda parzysta liczba całkowita większa od 4 jest sumą dwóch nieparzystych 
 
 Każdą lcizbę parzystą z pliku pary.txt przedstaw w postaci sumy dwóch liczb pierwszych. Wypisz tę liczbę oraz dwa składniki sumy w kolejności niemalejącej. Jeżeli istnieje więcej rozwiązań (tak jak dla liczby 20) należy wypisać składniki sumy o njawiększej różnicy.
 
-Wyniki podaj w oddzielnych wierszach, w kolejności zgodnej z kolejnością dnaycbh w pliku [pary.txt](https://github.com/Mariojey/matura2020/main/pary.txt) Liczby w kazdym wierszu rodziel znkaiem spacji, np. dla liczby 20 należy wypisać 20 3 17.
+Wyniki podaj w oddzielnych wierszach, w kolejności zgodnej z kolejnością dnaycbh w pliku [pary.txt](https://github.com/Mariojey/matura2020/blob/main/pary.txt) Liczby w kazdym wierszu rodziel znkaiem spacji, np. dla liczby 20 należy wypisać 20 3 17.
 
 
 Na początku sprawdzamy czy mamy do czynienia z liczbą pierwszą, w zadaniu też będzimey korzystać z biblioteki math.
