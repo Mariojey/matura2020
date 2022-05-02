@@ -12,20 +12,29 @@ def is_similar(n, A, B, k):
 
 #Przykłady podane w arkuszu
 
-#ZMIENNE
-tab5_first = [1,2,3,4,5]
-tab5_second = [3,4,5,1,2]
-tab7_first = [4,2,4,4,2,6]
-tab7_second = [4,4,2,6,4,2]
-tab5_n = 5
-tab5_k = 2
-tab7_n = 6
-tab7_k = 1
+A = [
+    [5,7,9],
+    [4,7,1,4,5],
+    [10,9,12,10,9],
+    [3,6,5,1,8],
+    [1,2,3,4,5],
+    [1,1,1,1,3,1,1,1,1],
+    [4,2,4,4,2,6]
+]
+
+B = [
+    [5,7,9],
+    [1,4,5,4,7],
+    [10,10,9,9,12],
+    [5,1,8,3,6],
+    [3,4,5,1,2],
+    [3,1,1,1,1,1,1,1,1],
+    [4,4,2,6,4,2]
+]
 
 
-#WYWOŁANIE FUNKCJI
-if_is_similar_tab5 = is_similar(tab5_n, tab5_first, tab5_second, tab5_k)
-if_is_similar_tab7 = is_similar(tab7_n, tab7_first, tab7_second, tab7_k)
-print(str(if_is_similar_tab5))
-print(str(if_is_similar_tab7))
-        
+N = [3,5,5,5,5,9,6]
+K = [0,2,3,4,2,4,1]
+
+for i in range(7):
+    print(is_similar(N[i], A[i], B[i], K[i]))
