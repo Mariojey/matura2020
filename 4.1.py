@@ -22,13 +22,17 @@ def isGoldbach(a):
         if val2 - val1 <= subtr - i:
             val2 = subtr
             val1 = i
-    print (str(a) + " " + str(val1) + " " + str(val2))
+    fileW.write(str(a) + " " + str(val1) + " " + str(val2) + "\n")
+    #print(str(a) + " " + str(val1) + " " + str(val2))
 
 #Pobieranie danych z pliku
 file = open("pary.txt", "r")
+fileW = open("wyniki4.txt","w")
 text_lines = file.read().splitlines()
 file.close()
 
 for l in text_lines:
     numLines = int(l.split(" ")[0])
     isGoldbach(numLines)
+
+fileW.close()

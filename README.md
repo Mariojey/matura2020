@@ -156,6 +156,13 @@ Wyniki podaj w oddzielnych wierszach, w kolejności zgodnej z kolejnością dnay
 
 Na początku sprawdzamy czy mamy do czynienia z liczbą pierwszą, w zadaniu też będzimey korzystać z biblioteki math.
 
+**4.2**
+Dla każdego słowa z pliku pary.txt znajdź długość najdłuższego spójnego fragmentu tego
+słowa złożonego z identycznych liter. Wypisz znalezione fragmenty słów i ich długości
+oddzielone spacją, po jednej parze w każdym wierszu. Jeżeli istnieją dwa fragmenty o takiej
+samej największej długości, podaj pierwszy z nich. Wyniki podaj w kolejności zgodnej
+z kolejnością danych w pliku [pary.txt](https://github.com/Mariojey/matura2020/blob/main/pary.txt)
+
 
 
 
